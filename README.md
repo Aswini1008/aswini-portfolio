@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🚀 Aswini | Frontend Developer & Java Developer
 
-## Project info
+Welcome to my professional portfolio repository. This project showcases my journey as a developer, highlighting my expertise in frontend technologies, Java development, and creating seamless user experiences.
 
-**URL**: https://lovable.dev/projects/0759b79b-f24c-40c8-a92e-93784a4fefb6
+![Aswini Portfolio Banner](https://yourdomain.com/images/aswini-portfolio-banner.png)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Website
 
-**Use Lovable**
+🔗 [View Portfolio](https://aswini.dev)  
+📬 Email: smaswini006@gmail.com  
+📁 GitHub: [github.com/Aswini1008](https://github.com/Aswini1008)  
+💼 LinkedIn: [linkedin.com/in/aswini](https://linkedin.com/in/aswini)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0759b79b-f24c-40c8-a92e-93784a4fefb6) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 👩‍💻 About Me
 
-**Use your preferred IDE**
+I’m **Aswini**, a passionate and detail-oriented software developer specializing in **Frontend Development** and **Java-based solutions**. With a strong foundation in modern web technologies and a knack for clean, maintainable code, I build performant, responsive, and accessible digital experiences.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+I'm currently enhancing my skills in:
+- 🌱 Data Structures & Algorithms (DSA)
+- 🔧 System Design & Scalable Web Architecture
+- 🧠 Competitive Programming
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Category     | Tools & Frameworks                                      |
+|--------------|----------------------------------------------------------|
+| **Languages**     | Java, JavaScript, HTML5, CSS3                       |
+| **Frontend**      | React.js, Tailwind CSS, Bootstrap                   |
+| **Backend**       | Node.js, Firebase, REST APIs                        |
+| **Database**      | MongoDB, Firebase Firestore                         |
+| **Tools**         | Git, GitHub, Vercel, Netlify, VS Code, Postman     |
+| **Design**        | Figma, Canva (UI/UX mockups)                        |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💼 Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- 📱 **Responsive** across all devices
+- 🎨 Clean and **accessible UI/UX**
+- 🔒 Role-based **authentication and dashboard**
+- ⚙️ Real-world **project case studies** with source code
+- 🌐 Deployed on a **custom domain** with SEO optimization
+
+---
+
+## 📸 Screenshots
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop View](https://yourdomain.com/images/aswini-desktop.png) | ![Mobile View](https://yourdomain.com/images/aswini-mobile.png) |
+
+---
+
+## 📁 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Aswini1008/portfolio.git
+
+# Navigate to the project directory
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0759b79b-f24c-40c8-a92e-93784a4fefb6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
